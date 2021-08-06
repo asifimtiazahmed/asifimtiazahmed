@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **the SOmNI project.**
+- 🔭 I’m currently working on **the SOmNI project.** funded by <a href="https://bloomberg.nursing.utoronto.ca">Lawrence S. Bloomberg Faculty of Nursing</a>
 
 - 🌱 I’m currently learning **Python**
 
@@ -27,12 +27,12 @@
 </p>
 
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/DEDEDE/amazon-web-services.png"/></a>
   <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-insides.png"/> </a> <a href="https://www.android.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android.png"/></a>  <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/></a> <a href="https://ubuntu.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/arduino.png"/></a> <a href="https://graphql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/graphql.png"/></a> <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/></a></p>
 
 
