@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifimtiazahmed&label=Profile%20views&color=0e75b6&style=flat" alt="asifimtiazahmed" /> </p>
 
 
-- I'm currently working full time, and in my spare time working on my own projects.
+- 🦀 I'm currently working full time, and in my spare time working on my own projects.
 - 🔭 I worked on **the SOmNI project.** funded by <a href="https://bloomberg.nursing.utoronto.ca">Lawrence S. Bloomberg Faculty of Nursing</a> which was completed a while ago
 
 - 🌱 I’m currently learning **Python**
