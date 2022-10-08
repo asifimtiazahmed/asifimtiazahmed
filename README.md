@@ -6,6 +6,7 @@
 
 
 - 🦀 I'm currently working full time, and in my spare time working on my own projects.
+- 🌎 I currently working with ATCO Group as a Flutter Developer creating web and mobile applications.
 - 🔭 I worked on **the SOmNI project.** funded by <a href="https://bloomberg.nursing.utoronto.ca">Lawrence S. Bloomberg Faculty of Nursing</a> which was completed a while ago
 
 - 🌱 I’m currently learning **Python**
